@@ -73,4 +73,4 @@ sudo cp kubectl /usr/local/bin/kubectl
 sudo chmod +x /usr/local/bin/kubectl
 ~~~
 
-这样就不需要package 中的内容, 减少130M的数据传输量
+这样就不需要package 中的内容, 减少130M的数据传输量, 完全实现 xxx as code
